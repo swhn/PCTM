@@ -33,7 +33,7 @@ p.value-description {
 p.question {
     margin: 16pt auto;
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     font-weight: normal;
     width: 70%;
     min-width: 500pt;
@@ -41,16 +41,17 @@ p.question {
     background-color: #eeeeee;
     padding: 16pt;
     border-radius: 16pt;
-    font-size: 36pt;
+    font-size: 28pt;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+	line-height: normal;
 
 }
 h1 {
     color: #222222;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     font-size: 72pt;
     text-align: center;
     line-height: 72pt;
@@ -62,7 +63,7 @@ h1 {
 }
 h2 {
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
     margin-top: 12pt;
@@ -78,7 +79,7 @@ a {
 
 .selection {
     background-color: #4caf50;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     border: none;
     border-radius: 8pt;
     color: white;
@@ -95,7 +96,7 @@ a {
 
 .num_input {
     background-color: #2196f3;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     border: none;
     border-radius: 8pt;
     color: white;
@@ -112,7 +113,7 @@ a {
 
 .text_input {
     background-color: #2196f3;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     border: none;
     border-radius: 8pt;
     color: white;
@@ -135,7 +136,7 @@ img.center {
 }
 .button {
     background-color: #2196f3;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     border: none;
     border-radius: 8pt;
     color: white;
@@ -154,7 +155,7 @@ img.center {
 }
 .small_button, .small_button_off {
     background-color: #333;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     border: none;
     border-radius: 8pt;
     color: white;
@@ -177,7 +178,7 @@ img.center {
 }
 .button:disabled {
     background-color: #ddd;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     border: 2px solid #888;
     border-radius: 8pt;
     color: #888;
@@ -192,7 +193,7 @@ img.center {
     cursor: not-allowed;
 }
 div.text-wrapper {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Padauk', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
     color: #222222;
@@ -230,7 +231,7 @@ span.weight-300 {
 
 	.svgHeader {
 		color: #222222;
-		font-family: 'Montserrat', sans-serif;
+		font-family: 'Padauk', sans-serif;
 		text-align: center;
 		margin-top: 0pt;
 		margin-bottom: 0pt;
