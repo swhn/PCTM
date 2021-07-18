@@ -2,36 +2,36 @@ questions = [
     //Valid questionTypes: customNumber, smallSelection, bigSelection, customText
     {
     "id": 1,
-    "question": "How would you classify yourself as?",
+    "question": "သင်ကိုယ်သင် ဘယ်လိုထင်ပါသလဲ?",
     "questionType": "smallSelection",
     "answers":[
         {
-        "label": "Authoritarian Left",
+        "label": "လက်ဝဲအာဏာချုပ်ကိုင်မှု",
         "color": "#990000",
         "effect": "AuthLeft"
         },
         {
-        "label": "Authoritarian Right",
+        "label": "လက်ယာအာဏာချုပ်ကိုင်မှု",
         "color": "#003399",
         "effect": "AuthRight"
         },
         {
-        "label": "Centrist",
+        "label": "အလယ်",
         "color": "#999999",
         "effect": "Centrist"
         },
         {
-        "label": "Libertarian Left",
+        "label": "လက်ဝဲအာဏာကင်းလွတ်မှု",
         "color": "#339900",
         "effect": "LibLeft"
         },
         {
-        "label": "Libertarian Right",
+        "label": "လက်ယာအာဏာကင်းလွတ်မှု",
         "color": "#999900",
         "effect": "LibRight"
         },
         {
-        "label": "Unaffiliated / Don't know",
+        "label": "မဖော်ပြလို / မသိ",
         "color": "#999999",
         "effect": null
         }]
@@ -42,182 +42,182 @@ questions = [
     "questionType": "smallSelection",
     "answers":[
         {
-        "label": "Authoritarian",
+        "label": "အာဏာပိုင်",
         "color": "#6d4cb0",
         "effect": "Auth"
         },
         {
-        "label": "Rightist",
+        "label": "လက်ယာစွန်း",
         "color": "#4c96af",
         "effect": "Right"
         },
         {
-        "label": "Centrist",
+        "label": "အလယ်",
         "color": "#999999",
         "effect": "Centrist"
         },
         {
-        "label": "Leftist",
+        "label": "လက်ဝဲစွန်း",
         "color": "#af4c4c",
         "effect": "Left"
         },
         {
-        "label": "Libertarian",
+        "label": "အာဏာမဲ့",
         "color": "#4caf50",
         "effect": "Lib"
         },
         {
-        "label": "Unaffiliated / Don't know",
+        "label": "မဖော်ပြလို / မသိ",
         "color": "#999999",
         "effect": null
         }]
     },
     {
     "id": 3,
-    "question": "How do you view yourself on Culture?",
+    "question": "သင့်ယဉ်ကျေးမှုကို သင့်ကိုသင် ဘယ်လိုမြင်သလဲ",
     "questionType": "smallSelection",
     "answers":[
         {
-        "label": "Very Progressive",
+        "label": "အလွန်တိုးတက်",
         "color": "#1b5e20",
         "effect": 3
         },
         {
-        "label": "Progressive",
+        "label": "တိုးတက်",
         "color": "#4caf50",
         "effect": 2
         },
         {
-        "label": "Leaning Progressive",
+        "label": "အနည်းငယ်တိုးတက်",
         "color": "#7ae67e",
         "effect": 1
         },
         {
-        "label": "Neutral",
+        "label": "ပုံမှန်",
         "color": "#a9a9a9",
         "effect": 0
         },
         {
-        "label": "Leaning Conservative",
+        "label": "အနည်းငယ်နောက်ပြန်ဆွဲ",
         "color": "#7acbe6",
         "effect": -1
         },
         {
-        "label": "Conservative",
+        "label": "ခေတ်နောက်ပြန်ဆွဲ",
         "color": "#4c96af",
         "effect": -2
         },
         {
-        "label": "Very Conservative",
+        "label": "အလွန်ခေတ်နောက်ပြန်ဆွဲ",
         "color": "#1b4e5e",
         "effect": -3
         },
         {
-        "label": "Don't Know / Refuse",
+        "label": "မသိ / မဖြေလို",
         "color": "#a9a9a9",
         "effect": null
         }]
     },
     {
     "id": 4,
-    "question": "How do you view yourself on Economics?",
+    "question": "ဘောဂဗေဒအရ သင့်ကိုယ်သင်ဘယ်ဖက်ရပ်တည်တယ်လို့ ထင်သလဲ?",
     "questionType": "smallSelection",
     "answers":[
         {
-        "label": "Very Right",
+        "label": "လက်ယာစွန်း",
         "color": "#5e5e1b",
         "effect": 3
         },
         {
-        "label": "Right",
+        "label": "လက်ယာ",
         "color": "#afaf4c",
         "effect": 2
         },
         {
-        "label": "Leaning Right",
+        "label": "လက်ယာယိမ်း",
         "color": "#d1d16d",
         "effect": 1
         },
         {
-        "label": "Neutral",
+        "label": "ပုံမှန်",
         "color": "#a9a9a9",
         "effect": 0
         },
         {
-        "label": "Leaning Left",
+        "label": "လက်ဝဲယိမ်း",
         "color": "#e67a7a",
         "effect": -1
         },
         {
-        "label": "Left",
+        "label": "လက်ဝဲ",
         "color": "#af4c4c",
         "effect": -2
         },
         {
-        "label": "Very Left",
+        "label": "လက်ဝဲစွန်း",
         "color": "#5e1b1b",
         "effect": -3
         },
         {
-        "label": "Don't Know / Refuse",
+        "label": "မသိ / မဖြေလို",
         "color": "#a9a9a9",
         "effect": null
         }]
     },
     {
     "id": 5,
-    "question": "How do you view yourself on Authority?",
+    "question": "အာဏာချုပ်ကိုင်မှုမှာ သင့်ကိုယ်သင်ဘယ်လိုထင်သလဲ?",
     "questionType": "smallSelection",
     "answers":[
         {
-        "label": "Very Authoritarian",
+        "label": "အလွန်အာဏာရှင်ဆန်",
         "color": "#321b5e",
         "effect": 3
         },
         {
-        "label": "Authoritarian",
+        "label": "အာဏာရှင်",
         "color": "#6d4cb0",
         "effect": 2
         },
         {
-        "label": "Leaning Authoritarian",
+        "label": "အာဏာရှင်နီးပါး",
         "color": "#9e7ae6",
         "effect": 1
         },
         {
-        "label": "Neutral",
+        "label": "ပုံမှန်",
         "color": "#a9a9a9",
         "effect": 0
         },
         {
-        "label": "Leaning Libertarian",
+        "label": "အာဏာမဲ့နီးပါး",
         "color": "#7ae683",
         "effect": -1
         },
         {
-        "label": "Libertarian",
+        "label": "အာဏာမဲ့",
         "color": "#4cb054",
         "effect": -2
         },
         {
-        "label": "Very Libertarian",
+        "label": "လုံးဝအာဏာမဲ့",
         "color": "#1b5e21",
         "effect": -3
         },
         {
-        "label": "Don't Know / Refuse",
+        "label": "မသိ / မဖြေလို",
         "color": "#a9a9a9",
         "effect": null
         }]
     },
     {
     "id": 6,
-    "question": "What label would you give to your ideology?",
+    "question": "ဘယ်နိုင်ငံရေးအမြင်ရှိတယ်လို့ သင့်ကိုယ်သင်ထင်သလဲ",
     "questionType": "customText"
     },
     {
     "id": 7,
-    "question": "What is your gender?",
+    "question": "သင်၏လိင်?",
     "questionType": "smallSelection",
     "answers":[
         {
@@ -246,20 +246,20 @@ questions = [
         "effect": "Other"
         },
         {
-        "label": "Refuse to Answer",
+        "label": "မဖြေလို",
         "color": "#999999",
         "effect": null
         }]
     },
     {
     "id": 8,
-    "question": "How old are you? (13-99)",
+    "question": "အသက်ဘယ်လောက်လဲ? (13-99)",
     "questionType": "customNumber",
     "range":[13,99]
     },
     {
     "id": 9,
-    "question": "Which religion do you adhere to?",
+    "question": "သင့်ဘာသာရေး ကိုးကွယ်မှု",
     "questionType": "smallSelection",
     "answers":[
         {
@@ -298,12 +298,12 @@ questions = [
         "effect": "Other"
         },
         {
-        "label": "Don't know / Refuse",
+        "label": "မသိ / မဖြေလို",
         "color": "#999999",
         "effect": null
         }]
     },
-    {
+   /* {
     "id": 10,
     "question": "Which region of the world do you live in?",
     "questionType": "bigSelection",
@@ -478,5 +478,5 @@ questions = [
         "color": "#999999",
         "effect": null
         }]
-    },
+    },*/
 ]
