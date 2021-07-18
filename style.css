@@ -19,6 +19,7 @@ p {
     font-size: 16pt;
     line-height: 1;
     margin: 4pt;
+	line-height: normal;
 }
 a{
     color: #2222DD;
