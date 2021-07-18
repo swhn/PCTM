@@ -1,1 +1,1 @@
-PCTNM is a clone of the Sapply political compass, made to use 8values' UI, forked from SupplyValues.
+PCTM is a clone of the Sapply political compass, made to use 8values' UI, forked from SupplyValues.
