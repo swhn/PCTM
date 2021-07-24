@@ -9,5 +9,3 @@ events.forEach(function(e){
 		visual.style.transform = "translate(-50%, -50%) rotate(-" + ratio + "deg)"
 	});
 });
-
-
