@@ -23,7 +23,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%) rotate(-45deg);
   font-family: "Eczar";
-  font-size: 60vmax;
+  font-size: 20vmax;
   color: #282828;
   letter-spacing: 0.025em;
   margin: 0;
